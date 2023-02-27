@@ -1,1 +1,6 @@
 ini file latihan
+
+ini contoh latihan 2
+1
+2
+3
